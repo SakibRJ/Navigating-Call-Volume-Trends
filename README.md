@@ -109,6 +109,7 @@ Output:
 ![Image](https://github.com/user-attachments/assets/8d256d88-7bef-4ea3-bdf8-5a1ec19b5dc2)
 
 Key Observations:
+
 #Our analysis reveals that the percentage of abandoned calls is notably higher in the early morning and late evening, which could be attributed to various factors.
 
 #We observe that between 10 AM and 1 PM, a significant number of agents is required to handle client needs, as indicated by the previous graphs. For more info kindly refer the file 'MAIN_Call_Volume_Trend_Analysis,xlsx'.
@@ -116,7 +117,7 @@ Key Observations:
 ### Note: Night shift manpower planning, along with a comparison of current and required resources to achieve 90% call coverage, has been outlined in the 'MAIN_Call_Volume_Trend_Analysis.xlsx.' Additionally, a comprehensive report titled 'MAIN_Call_Volume_Trend_Analysis_Report.pdf' has been uploaded, which presents an in-depth analysis of key insights, trends, and patterns observed in the data. The report also highlights actionable conclusions and recommendations for enhancing efficiency and customer experience. Please refer to these documents for a more thorough understanding of the CX analysis and to guide decision-making moving forward.
 
 
-#### Conclusion: The key highlights of data patterns and trends are summarized below (More details on these can be found in the 'MAIN_Call_Volume_Trend_Analysis_Report.pdf'):
+#### #Conclusion: The key highlights of data patterns and trends are summarized below (More details on these can be found in the 'MAIN_Call_Volume_Trend_Analysis_Report.pdf'):
 
 - The average call duration with a client is 197 seconds, with most agents handling similar call durations, indicating consistency throughout the day.
 - Calls are predominantly received between 10 am and 12 pm, with 11 am to 12 pm being the busiest hour.
