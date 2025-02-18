@@ -26,7 +26,7 @@ This project explores the domain of Customer Experience (CX) analytics, with a p
 
 
 ### Approach/Steps followed 
-#### Understanding the data & planning accordingly. Additionally, the most important step i.e., Data cleaning and preparing the data:
+#### #Understanding the data & planning accordingly. Additionally, the most important step i.e., Data cleaning and preparing the data:
 
 - No of rows: 1,17,988
 - No of Columns: 13
@@ -37,13 +37,14 @@ This project explores the domain of Customer Experience (CX) analytics, with a p
 #### Remaining 13679 cells in wrapped by column were replaced by Statistical Descriptive Values (Mode) that happend to be 'Agent'
 ![Image](https://github.com/user-attachments/assets/25ec5ced-ee6b-435f-bbdc-04c7f1a2692c)
 
-#### Insights: Analysing the data to extract meaningful insights and Visualizing key factors for clear and concise communication.
+#### #Insights: Analysing the data to extract meaningful insights and Visualizing key factors for clear and concise communication.
 
 - Average Call Duration:
 Simply created a Pivot table that shows the time bucket and Call_duration in Seconds (Average).
 Added a filter to the Pivot containing only Answered + Transferred Calls (Transferred calls are again Answered Calls before being transferred).
 
 Output:
+
 ![Image](https://github.com/user-attachments/assets/783d68e8-0137-4139-a075-fdd661421211)
 
 ![Image](https://github.com/user-attachments/assets/15f92e98-e075-4ced-a316-5c3f0c2549ec)
