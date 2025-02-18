@@ -26,7 +26,7 @@ This project explores the domain of Customer Experience (CX) analytics, with a p
 
 
 ### Approach/Steps followed 
-#### Understanding the data & planning accordingly. Additionally, the most important staep i.e., Data cleaning and preparing the data:
+#### Understanding the data & planning accordingly. Additionally, the most important step i.e., Data cleaning and preparing the data:
 
 - No of rows: 1,17,988
 - No of Columns: 13
