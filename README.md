@@ -112,7 +112,7 @@ Key Observations:
 
 #Our analysis reveals that the percentage of abandoned calls is notably higher in the early morning and late evening, which could be attributed to various factors.
 
-#We observe that between 10 AM and 1 PM, a significant number of agents is required to handle client needs, as indicated by the previous graphs. For more info kindly refer the file 'MAIN_Call_Volume_Trend_Analysis,xlsx'.
+#We observe that between 10 AM and 1 PM, a significant number of agents is required to handle client needs, as indicated by the previous graphs. For more info kindly refer the file 'MAIN_Call_Volume_Trend_Analysis.xlsx'.
 
 ### Note: Night shift manpower planning, along with a comparison of current and required resources to achieve 90% call coverage, has been outlined in the 'MAIN_Call_Volume_Trend_Analysis.xlsx.' Additionally, a comprehensive report titled 'MAIN_Call_Volume_Trend_Analysis_Report.pdf' has been uploaded, which presents an in-depth analysis of key insights, trends, and patterns observed in the data. The report also highlights actionable conclusions and recommendations for enhancing efficiency and customer experience. Please refer to these documents for a more thorough understanding of the CX analysis and to guide decision-making moving forward.
 
