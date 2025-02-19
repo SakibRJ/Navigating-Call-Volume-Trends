@@ -2,7 +2,7 @@
 
 
 ## Project Description
-Customer Experience (CX) Analytics is a process that allows businesses to understand their customers' interactions and experiences with their products or services. It involves the collection, analysis, and interpretation of customer data to gain insights into customer behavior, preferences, and expectations. This data-driven approach helps businesses improve their customer service, enhance their product offerings, and make informed business decisions.
+Customer Experience (CX) Analytics is a process that allows businesses to understand their customers' interactions and experiences with their products or services. It involves the collection, analysis, and interpretation of customer data to gain insights into customer behaviour, preferences, and expectations. This data-driven approach helps businesses improve their customer service, enhance their product offerings, and make informed business decisions.
 
 This project explores the domain of Customer Experience (CX) analytics, with a particular emphasis on the inbound calling team within an organization. The dataset spans a period of 23 days and includes various attributes such as the agent’s name and ID, queue time (the duration a customer waits before connecting with an agent), call time, call duration, and call status (whether the call was abandoned, answered, or transferred). The objective is to conduct a comprehensive analysis of CX patterns, with a focus on the inbound calling team, in order to achieve the outlined goals and enhance the overall customer experience, ultimately fostering customer loyalty and advocacy for the business.
 
@@ -53,7 +53,7 @@ Key Observations from the Bar Graph:
 
 #The average call duration of a call is 197 seconds.
 
-#The progress moves much master during 12 to 3pm as the average time is reduced by 5-10secs.
+#The progress moves much faster during 12 to 3pm as the average time is reduced by 5-10secs.
 
 #Moreover most of the agents are consuming almost similar amout of time to cater the cilent; this shows consistency among the agents throughout the day.
 
@@ -78,10 +78,10 @@ Key Observations from the Bar Graph:
 - Manpower Planning:
 Basically we had had two task here:
 1. Man power required 9am to 9pm
-2. Reduce abondon call rate to 10%
+2. Reduce abandon call rate to 10%
 
 
-From The BRD we had Assumptions Available for Adoption from the same we managed to calculate the below data:
+From The BRD we had 'Assumptions Available for Adoption' from the same we managed to calculate the below data:
 
 ![Image](https://github.com/user-attachments/assets/5bf0a07f-832f-4a95-8cb8-5595f65f5857)
 
